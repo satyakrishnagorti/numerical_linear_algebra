@@ -4,3 +4,5 @@ node_modules
 
 # Ignore checkpoints created (especially for the examples)
 .ipynb_checkpoints
+
+datasets
